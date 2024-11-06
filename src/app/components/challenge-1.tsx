@@ -3,7 +3,7 @@ import Image from "next/image";
 const Challenge1 = () => {
   return (
     <div className="flex flex-col gap-4 bg-white rounded-lg p-6 max-w-[340px] shadow-sm">
-      <div className="flex gap-4">
+      <div className="flex items-start gap-4">
         <Image
           src="/profile-thumbnail.png"
           alt="avatar"
