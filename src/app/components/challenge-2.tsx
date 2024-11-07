@@ -27,7 +27,7 @@ const Challenge2 = () => {
             same time.
           </h6>
           <button className="flex items-center pl-0.5 gap-1.5 text-base font-[500] rounded-[4px] text-indigo-700 transition-colors hover:text-indigo-800 focus:text-indigo-800 focus:shadow-button-focus disabled:text-neutral-400">
-            Read more <RiArrowRightLine size={20} className="text-indigo-700 ml-px" />
+            Read more <RiArrowRightLine size={20} className="text-indigo-700 -ml-px" />
           </button>
         </div>
       </div>
