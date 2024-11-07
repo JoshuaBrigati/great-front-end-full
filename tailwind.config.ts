@@ -15,6 +15,9 @@ const config: Config = {
     },
     boxShadow: {
       sm: "0px 1px 3px 0px rgba(0, 0, 0, 0.12), 0px 1px 2px -1px rgba(0, 0, 0, 0.10)",
+      "sm-secondary":
+        "0px 1px 3px 0px rgba(0, 0, 0, 0.10), 0px 1px 2px 0px rgba(0, 0, 0, 0.06)",
+      "button-focus": "0px 0px 0px 4px rgba(68, 76, 231, 0.12)",
     },
   },
   plugins: [],
