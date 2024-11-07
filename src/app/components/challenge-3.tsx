@@ -18,16 +18,16 @@ const Challenge3 = () => {
           height={64}
         />
         <div className="flex flex-col items-center gap-1">
-          <h4 className="text-xl font-[500] text-neutral-900 -mt-px">Sarah Dole</h4>
+          <h4 className="text-xl font-[500] text-neutral-900">Sarah Dole</h4>
           <h6 className="text-sm text-neutral-600">Front End Engineer @ Microsoft</h6>
         </div>
-        <p className="text-base text-neutral-600 text-center -mt-px">
+        <p className="text-base text-neutral-600 text-center">
           I turn coffee into bugs which are fixed by someone else. Certified Stack Overflow and ChatGPT developer.
         </p>
       </div>
 
       <div className="flex flex-col items-center gap-6">
-        <button className="w-full h-11 rounded-[4px] bg-indigo-700 shadow-sm-secondary text-white text-base font-[500] transition-colors hover:bg-indigo-800 focus:bg-indigo-800 focus:shadow-button-focus disabled:bg-neutral-100 disabled:text-neutral-400">
+        <button className="w-full h-11 rounded-[4px] mt-px bg-indigo-700 shadow-sm-secondary text-white text-base font-[500] transition-colors hover:bg-indigo-800 focus:bg-indigo-800 focus:shadow-button-focus disabled:bg-neutral-100 disabled:text-neutral-400">
           Contact me
         </button>
         <div className="w-full flex justify-center gap-4">
