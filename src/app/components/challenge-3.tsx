@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Challenge3 = () => {
   return (
-    <div className="flex flex-col gap-10 bg-white rounded-lg py-6 px-4 max-w-[340px] shadow-sm-secondary">
+    <div className="flex flex-col gap-10 bg-white rounded-lg py-6 pt-[23px] px-4 max-w-[340px] shadow-sm-secondary">
       <div className="flex flex-col items-center gap-6">
 					<Image
             src="/profile.png"
