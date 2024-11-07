@@ -1,5 +1,6 @@
 import Challenge1 from "./components/challenge-1";
 import Challenge2 from "./components/challenge-2";
+import Challenge3 from "./components/challenge-3";
 
 export default function Home() {
   return (
@@ -12,6 +13,10 @@ export default function Home() {
       <div className="flex flex-col gap-4">
         <h3 className="text-lg font-semibold">Challenge 2</h3>
         <Challenge2 />
+      </div>
+      <div className="flex flex-col gap-4">
+        <h3 className="text-lg font-semibold">Challenge 3</h3>
+        <Challenge3 />
       </div>
     </div>
   );
