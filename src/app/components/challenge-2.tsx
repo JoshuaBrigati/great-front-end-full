@@ -12,7 +12,7 @@ const Challenge2 = () => {
           className="object-cover h-[288px] w-full"
         />
       </div>
-      <div className="flex flex-col gap-4 py-6 px-4">
+      <div className="flex flex-col gap-3 py-6 px-4">
         <div className="flex flex-col gap-2">
           <div className="px-2 py-px bg-green-50 border border-green-200 rounded-full text-sm text-green-700 w-fit">
             Interior
