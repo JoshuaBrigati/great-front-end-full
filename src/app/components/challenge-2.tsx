@@ -22,11 +22,11 @@ const Challenge2 = () => {
           </h4>
         </div>
         <div className="flex flex-col gap-6">
-          <h6 className="text-base text-neutral-600 font-semibold">
+          <h6 className="text-base text-neutral-600 font-[500]">
             Curated vibrants colors for your living, make it pop & calm in the
             same time.
           </h6>
-          <button className="flex items-center gap-2 text-base font-semibold rounded-[4px] text-indigo-700 transition-colors hover:text-indigo-800 focus:text-indigo-800 focus:shadow-button-focus disabled:text-neutral-400">
+          <button className="flex items-center pl-0.5 gap-2 text-base font-[500] rounded-[4px] text-indigo-700 transition-colors hover:text-indigo-800 focus:text-indigo-800 focus:shadow-button-focus disabled:text-neutral-400">
             Read more <RiArrowRightLine size={20} className="text-indigo-700" />
           </button>
         </div>
