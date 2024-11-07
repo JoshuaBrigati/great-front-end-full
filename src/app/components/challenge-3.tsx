@@ -11,7 +11,6 @@ const Challenge3 = () => {
     <div className="flex flex-col gap-10 bg-white rounded-lg py-6 px-4 max-w-[340px] shadow-sm-secondary">
       <div className="flex flex-col items-center gap-6">
         <Image
-          className="pt-px"
           src="/profile.png"
           alt="avatar"
           width={64}
