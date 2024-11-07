@@ -20,7 +20,7 @@ const Challenge3 = () => {
         </p>
       </div>
 
-      <div className="flex flex-col items-center gap-6">
+      <div className="flex flex-col items-center gap-6 -mt-px">
         <button className="w-full px-6 py-2.5 rounded bg-indigo-700 shadow-sm-secondary text-white text-base font-medium transition-colors hover:bg-indigo-800 focus:bg-indigo-800 focus:shadow-button-focus disabled:bg-neutral-100 disabled:text-neutral-400">
           Contact me
         </button>
